@@ -1,0 +1,24 @@
+C:\Users\Thomas Kennington\Downloads\KinectCalibration\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Thomas Kennington\Downloads\KinectCalibration\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Thomas Kennington\Downloads\KinectCalibration\bin\Debug\ConsoleApplication1.exe
+C:\Users\Thomas Kennington\Downloads\KinectCalibration\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Thomas Kennington\Downloads\KinectCalibration\obj\Debug\ConsoleApplication1.exe
+C:\Users\Thomas Kennington\Downloads\KinectCalibration\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Thomas Kennington\Downloads\KinectCalibration\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\Thomas Kennington\Downloads\KinectCalibration\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\Lusu\Documents\Visual Studio 11\Projects\KinectCalibration\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Lusu\Documents\Visual Studio 11\Projects\KinectCalibration\obj\Debug\ConsoleApplication1.exe
+C:\Users\Lusu\Documents\Visual Studio 11\Projects\KinectCalibration\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Lusu\Documents\Visual Studio 11\Projects\KinectCalibration\bin\Debug\ConsoleApplication1.exe
+C:\Users\Lusu\Documents\Visual Studio 11\Projects\KinectCalibration\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Lusu\Documents\Visual Studio 11\Projects\KinectCalibration\obj\Debug\KinectCalibration.csprojResolveAssemblyReference.cache
+C:\Users\hieu\Documents\KinectCalibration\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\hieu\Documents\KinectCalibration\obj\Debug\ConsoleApplication1.exe
+C:\Users\hieu\Documents\KinectCalibration\obj\Debug\ConsoleApplication1.pdb
+C:\Users\hieu\Documents\KinectCalibration\bin\Debug\ConsoleApplication1.exe
+C:\Users\hieu\Documents\KinectCalibration\bin\Debug\ConsoleApplication1.pdb
+C:\Users\hieu\Documents\KinectCalibration\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Users\hieu\Documents\KinectCalibration\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Users\hieu\Documents\KinectCalibration\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hieu\Documents\KinectCalibration\bin\Debug\InputSimulator.dll
+C:\Users\hieu\Documents\KinectCalibration\bin\Debug\InputSimulator.xml
